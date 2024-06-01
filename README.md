@@ -1,2 +1,2 @@
 # amazon-clone
-This is my first project using HTML and CSS.I tried to create a similar website to amazon.com .
+This is my first project using HTML and CSS.I tried to create a website similar to amazon.com .
