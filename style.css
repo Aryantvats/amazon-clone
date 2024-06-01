@@ -16,7 +16,7 @@
     width: 120px;
 }
 .logo{
-    background-image: url("loogo.png");
+    background-image: url("photos/loogo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -89,7 +89,7 @@
     align-items: center;
 }
 .flag{
-    background-image: url("flag.png");
+    background-image: url("photos/flag.png");
     background-size: cover;
     height: 16px;
     width: 21px;
@@ -135,7 +135,7 @@ span{
 }
 /* hero section */
 .hero-section{
-    background-image: url("back.jpg");
+    background-image: url("photos/back.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
@@ -187,12 +187,12 @@ span{
     margin-bottom: 5px;
 }
 .i-a{
-    background-image: url("gaming.jpg");
+    background-image: url("photos/gaming.jpg");
     background-size: cover;
     height: 120px;
     width: 185px;
 }.i-b{
-    background-image: url("keyboard.jpg");
+    background-image: url("photos/keyboard.jpg");
     background-size: cover;
     height: 120px;
     width: 180px;
@@ -203,34 +203,34 @@ span{
     
 }
 .i-c{
-    background-image: url("mouse.jpg");
+    background-image: url("photos/mouse.jpg");
     background-size: cover;
     height: 120px;
     width: 180px;
 }
 .i-d{
-    background-image: url("chair.jpg");
+    background-image: url("photos/chair.jpg");
     background-size: cover;
     height: 115px;
     width: 180px;
 }
 
 .pc{
-    background-image: url("pc.jpg");
+    background-image: url("photos/pc.jpg");
     height: 250px;
     margin-left: 10px;
     margin-right: 10px;
     padding-bottom: 10px;
 }
 .watches{
-    background-image: url("smartwatches.jpg");
+    background-image: url("photos/smartwatches.jpg");
     height: 250px;
     margin-left: 10px;
     margin-right: 10px;
     padding-bottom: 10px;
 }
 .kitchen{
-    background-image: url("gam.jpg");
+    background-image: url("photos/gam.jpg");
     height: 250px;
     margin-left: 10px;
     margin-right: 10px;
@@ -278,7 +278,7 @@ ul p{
     align-items: center;
 }
 .logo{
-    background-image: url("loogo.png");
+    background-image: url("photos/loogo.png");
     height: 50px;
     width: 130px;
     background-size: cover;
